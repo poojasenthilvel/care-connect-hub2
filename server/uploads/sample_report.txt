@@ -1,0 +1,13 @@
+MedFlow Sample Report
+
+Patient: Patient 1
+Doctor: Dr. Emily Carter
+Type: Lab Report
+
+Results:
+- Hemoglobin: 13.8 g/dL
+- WBC: 6.2 x10^9/L
+- Platelets: 240 x10^9/L
+
+This is demo data generated for the MedFlow sample project.
+
